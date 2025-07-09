@@ -1,7 +1,8 @@
 // strutils.cpp
 #include "strutils.h"
 #include <string.h> 
-#include <ctype.h>  
+#include <ctype.h>
+#include <limits.h> 
 #include <stdlib.h> 
 //#include <stdio.h> 
 
